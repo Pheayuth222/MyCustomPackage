@@ -4,3 +4,4 @@ public struct MyCustomPackage {
     public init() {
     }
 }
+// Init Package
